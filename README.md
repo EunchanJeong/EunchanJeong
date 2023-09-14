@@ -5,8 +5,8 @@
 
 <div align="center">
   
-  [![Eunchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunchanJeong&include_all_commits=true&theme=nord&hide_border=true&count_private=true&theme=radical)](https://github.com/jiholee0/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunchanJeong&layout=compact&theme=radical)](https://github.com/EunchanJeong/github-readme-stats)
+  [![Eunchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunchanJeong&include_all_commits=true&theme=nord&hide_border=true&count_private=true&layout=compact&theme=tokyonight)](https://github.com/jiholee0/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunchanJeong&layout=compact&layout=compact&theme=tokyonight)](https://github.com/EunchanJeong/github-readme-stats)
   
 </div>
 
