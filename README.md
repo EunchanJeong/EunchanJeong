@@ -5,7 +5,7 @@
 
 <div align="center">
   
-  ![EuncahnJeong's github stats](https://github-readme-stats.vercel.app/api?username=EuncahnJeongs&show_icons=true&theme=tokyonight)
+  ![EuncahnJeong's github stats](https://github-readme-stats.vercel.app/api?username=EuncahnJeong&show_icons=true&theme=tokyonight)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunchanJeong&layout=compact&theme=tokyonight)](https://github.com/EunchanJeong/github-readme-stats)
   
 </div>
