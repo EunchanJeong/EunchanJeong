@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Eunchan's Github&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Euncahn's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <!--
 **EunchanJeong/EunchanJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
