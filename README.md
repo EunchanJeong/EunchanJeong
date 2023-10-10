@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Rounded&color=438CB5&height=250&section=header&text=Eunchan%20Jeong&fontSize=80&fontColor=FFFFFF"/>
-
-<br>
+# Welcome to Eunchan's Github!
 
 ## 💻 Project
 - [2023 제1회 철도 인공지능 경진대회](https://github.com/EunchanJeong/2023_Railroad_Contest)
