@@ -58,8 +58,8 @@
 
 <br>
 
-  ![EunchanJeong's github stats](https://github-readme-stats.vercel.app/api?username=EunchanJeong&show_icons=true&theme=tokyonight)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunchanJeong&layout=compact&theme=tokyonight)](https://github.com/EunchanJeong/github-readme-stats)
+  ![EunchanJeong's github stats](https://github-readme-stats.vercel.app/api?username=EunchanJeong&show_icons=true&theme=vue)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunchanJeong&layout=compact&theme=vue)](https://github.com/EunchanJeong/github-readme-stats)
   
 </div>
 
