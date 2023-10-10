@@ -2,10 +2,10 @@
 
 ## 💻 Project
 ### 데이터 분석 & AI 모델링
-- [2023 제1회 철도 인공지능 경진대회](https://github.com/EunchanJeong/2023_Railroad_Contest)(장려상🥉)
-- [AI 기반 반려동물 일기생성 서비스](https://github.com/EunchanJeong/Pet_Emotion_Diary_Clone)
-- [OpenAI API를 이용한 상상 친구 및 동화 생성 서비스](https://github.com/EunchanJeong/Prompter_Day_2023)
-- 전기충전 모니터링 및 이상치 판별
+- [2023 제1회 철도 인공지능 경진대회](https://github.com/EunchanJeong/2023_Railroad_Contest) (장려상🥉)
+- [AI 기반 반려동물 일기생성 서비스](https://github.com/EunchanJeong/Pet_Emotion_Diary_Clone) (KT AIVLE School Big Project)
+- [OpenAI API를 이용한 상상 친구 및 동화 생성 서비스](https://github.com/EunchanJeong/Prompter_Day_2023) (Prompter Day Seoul 2023)
+- 전기충전 모니터링 및 이상치 판별 (캡스톤설계 프로젝트 우수상🥉)
 
 <br>
 
