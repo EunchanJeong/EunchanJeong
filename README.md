@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Eunchan's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
 ## 💻 Project
 - [2023 제1회 철도 인공지능 경진대회](https://github.com/EunchanJeong/2023_Railroad_Contest)
-- [오늘뭐했개? 일기쓸고양! (AI 기반 반려동물 일기생성 서비스)](https://github.com/EunchanJeong/Pet_Emotion_Diary_Clone)
-- [Dream Land (OpenAI API를 이용한 상상 친구 및 동화 생성 서비스)](https://github.com/EunchanJeong/Prompter_Day_2023)
+- [AI 기반 반려동물 일기생성 서비스](https://github.com/EunchanJeong/Pet_Emotion_Diary_Clone)
+- [OpenAI API를 이용한 상상 친구 및 동화 생성 서비스](https://github.com/EunchanJeong/Prompter_Day_2023)
 - 전기충전 모니터링 및 이상치 판별
 
 <br>
