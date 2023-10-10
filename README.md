@@ -1,4 +1,4 @@
-# Welcome to Eunchan's Github!
+# Welcome to Eunchan's Github 🤗
 
 ## 💻 Project
 - [2023 제1회 철도 인공지능 경진대회](https://github.com/EunchanJeong/2023_Railroad_Contest)
