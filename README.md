@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Eunchan's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
+<img src="https://capsule-render.vercel.app/api?type=Rounded&color=438CB5&height=250&section=header&text=Eunchan%20Jeong&fontSize=80&fontColor=FFFFFF"/>
+
+<br>
+
 ## 💻 Project
 - [2023 제1회 철도 인공지능 경진대회](https://github.com/EunchanJeong/2023_Railroad_Contest)
 - [AI 기반 반려동물 일기생성 서비스](https://github.com/EunchanJeong/Pet_Emotion_Diary_Clone)
