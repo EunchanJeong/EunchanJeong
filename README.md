@@ -9,7 +9,7 @@
 - 전기충전 모니터링 및 이상치 판별 (캡스톤설계 프로젝트 우수상🥉)
 
 <br>
-
+<!--
 ## 🛠 Tech Stack
 <div align="center"> 
 
@@ -57,7 +57,7 @@
 </div>
 
 <div align="center">
-
+-->
 <br>
 
   ![Eunchan's github stats](https://github-readme-stats.vercel.app/api?username=EunchanJeong&show_icons=true&theme=shadow_blue)
