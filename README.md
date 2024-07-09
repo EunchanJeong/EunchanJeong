@@ -1,11 +1,11 @@
 # Welcome to Eunchan's Github 🤗
 
 ## 💻 Project
-### 웹 서비스 개발
+### 1. 웹 서비스 개발
 - [반려견 편의시설 지도 정보 제공 및 개모차 대여 서비스](https://github.com/Zui-Topia/Pet-Topia-BE) (현대IT&E SW개발자 양성 과정 1차 프로젝트)
 - [OpenAI API를 이용한 상상 친구 및 동화 생성 서비스](https://github.com/EunchanJeong/Prompter_Day_2023) (Prompter Day Seoul 2023)
 
-### 데이터 분석 & AI 모델링
+### 2. 데이터 분석 & AI 모델링
 - [AI기반 제주도 불법 산림 훼손 탐지 솔루션](https://github.com/EunchanJeong/AI_detection_of_illegal_forest_damage) (미래내일 일경험 사업 제안 프로젝트 최우수상🥈, 미래내일 일경험 우수프로젝트 공모전 대한상공회의소 회장상🥉)
 - [열차 탈선계수 예측 인공지능 모델 개발](https://github.com/EunchanJeong/2023_Railroad_Contest) (2023 제1회 철도 인공지능 경진대회 장려상🥉)
 - [AI 모델링 및 반려 동물 영상 기반 일기 자동 생성 서비스](https://github.com/EunchanJeong/Pet_Emotion_Diary_Clone) (KT AIVLE School Big Project)
