@@ -69,8 +69,9 @@
 ## 🪪 Certificates
 - SQLD (한국데이터산업진흥원)
 - AICE ASSOCIATE (KT, 한국경제신문)
+<br>
 
-
+## 📊 Stats
 <div align="center">
 <br>
 
