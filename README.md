@@ -10,7 +10,7 @@
 - [열차 탈선계수 예측 인공지능 모델 개발](https://github.com/EunchanJeong/2023_Railroad_Contest) (2023 제1회 철도 인공지능 경진대회 장려상🥉)
 - [AI 모델링 및 반려 동물 영상 기반 일기 자동 생성 서비스](https://github.com/EunchanJeong/Pet_Emotion_Diary_Clone) (KT AIVLE School Big Project)
 - 전기충전 모니터링 및 이상치 판별 (캡스톤설계 프로젝트 우수상🥉)
-
+<br>
 
 ## 🛠 Tech Stack
  <table>
