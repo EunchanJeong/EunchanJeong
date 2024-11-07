@@ -2,7 +2,7 @@
 
 ## 💻 Projects
 ### 1. 웹 서비스 개발
-- [반려견 편의시설 지도 정보 제공 및 개모차 대여 서비스](https://github.com/Zui-Topia/Pet-Topia-BE) (현대IT&E SW개발자 양성 과정 1차 프로젝트)
+- [반려견 편의시설 지도 정보 제공 및 개모차 대여 서비스](https://github.com/Zui-Topia/Pet-Topia-BE) (MSA기반 Fullstack개발자 양성과정 1차 프로젝트)
 - [OpenAI API를 이용한 상상 친구 및 동화 생성 서비스](https://github.com/EunchanJeong/Prompter_Day_2023) (Prompter Day Seoul 2023)
 
 ### 2. 데이터 분석 & AI 모델링
